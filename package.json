@@ -1,0 +1,10 @@
+{
+  "name": "campus-phenology",
+  "version": "7.0.0",
+  "description": "校园物志志 · 像素校园物候观察游戏（Phaser 3 单文件版）",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -l 5173 .",
+    "serve": "npx serve -l 5173 ."
+  }
+}
